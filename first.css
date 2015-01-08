@@ -92,7 +92,7 @@
 .left {
     width: 297px;
     height: 288px;
-    background-color: red;
+    background-color: #f2f2f2;
 }
 .right {
     width: 645px;
@@ -102,6 +102,30 @@
 }
 .content_three div {
     display: inline-block;
+}
+
+.left ul {
+    list-style: none;
+    width: 297px;
+    height: 123px;
+    margin-top: 15px;
+    margin-left: 10px;
+
+}
+.left img {
+    width: 270px;
+    height: 112px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.left li {
+    width: 297px;
+    height: 30px;
+    margin-top: 10px;
+}
+.left h2 {
+    margin-top: 10px;
+    margin-left: 10px;
 }
 /*content_three end*/
 
